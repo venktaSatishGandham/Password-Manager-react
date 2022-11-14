@@ -1,0 +1,108 @@
+.app-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  min-height: 100vh;
+  background-size: cover;
+  padding: 40px 120px;
+  font-family: 'roboto';
+}
+.app-logo {
+  height: 80px;
+  width: 280px;
+}
+.form-container {
+  background-color: #5763a5;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+  width: 70vw;
+}
+.form-heading {
+  color: white;
+  font-size: 25px;
+}
+.password-manager {
+  width: 300px;
+  height: 300px;
+}
+.form-container-first {
+  display: flex;
+  flex-direction: column;
+  background-color: #454f84;
+  border-radius: 20px;
+  padding: 15px 50px;
+}
+.formimg {
+  height: 30px;
+  width: 30px;
+  background-color: white;
+}
+.input {
+  line-height: 28px;
+  width: 250px;
+  margin: 12px 0;
+  border: none;
+  border-left: 2px solid #94a3b8;
+  text-indent: 15px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+.button {
+  background-color: #0b69ff;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 10px;
+}
+.list-container {
+  background-color: #5763a5;
+  width: 70vw;
+  padding: 20px 50px;
+}
+.list-container-first2 {
+  display: flex;
+  color: white;
+}
+.list-container-second {
+  display: flex;
+}
+.search {
+  height: 27px;
+  background-color: white;
+}
+.list-container-first {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input2 {
+  height: 27px;
+  border: none;
+}
+.count {
+  border: 1px solid white;
+  margin-left: 10px;
+  padding: 1px 10px;
+  border-radius: 15px;
+}
+.show-passwords {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+}
+.list-of-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.no-passwords {
+  height: 350px;
+  width: 350px;
+  margin: 10px 10px 0 250px;
+}

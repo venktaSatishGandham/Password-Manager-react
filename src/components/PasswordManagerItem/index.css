@@ -1,0 +1,58 @@
+.listItem {
+  display: flex;
+  border: 1.5px solid #c3caea;
+  border-radius: 15px;
+  width: 40vh;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 10px 15px;
+
+  margin: 10px;
+}
+.delete {
+  width: 30px;
+  height: 30px;
+}
+.stars {
+  width: 120px;
+  height: 20px;
+}
+.profile-details {
+  margin: 0;
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
+.profile-img {
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+.profile-item-website {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+}
